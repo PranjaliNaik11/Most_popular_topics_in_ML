@@ -1,4 +1,4 @@
-**# Title: NIPS Conference Research Analysis**
+**Title: NIPS Conference Research Analysis**
 
 **Description:**
 This repository hosts code and resources for analyzing research papers from the Neural Information Processing Systems (NIPS) conference. The primary objective is to identify the hottest topics in machine learning (ML) by leveraging natural language processing (NLP) techniques.
